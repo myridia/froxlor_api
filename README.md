@@ -1,3 +1,5 @@
+<img src="froxlor_api.svg" alt="froxlor_api" width="120">
+
 # froxlor_api
 Commune Tasks with the Froxlor API
 
